@@ -40,7 +40,7 @@ ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR
 10245,34,100,9,6120.34,5/4/2004 0:00,Shipped,2,5,2004,Classic Cars,214,S10_1949,Super Scale Inc.,2035559545,567 North Pendale Street,,New Haven,CT,97823,USA,NA,Murphy,Leslie,Medium
 10258,32,100,6,7680.64,6/15/2004 0:00,Shipped,2,6,2004,Classic Cars,214,S10_1949,"Tokyo Collectables, Ltd",+81 3 3584 0555,2-2-8 Roppongi,,Minato-ku,Tokyo,106-0032,Japan,Japan,Shimamura,Akiko,Large
 10270,21,100,9,4905.39,7/19/2004 0:00,Shipped,3,7,2004,Classic Cars,214,S10_1949,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Medium
-10280,34,100,2,8014.82,8/17/2004 0:00,Shipped,3,8,2004,Classic Cars,214,S10_1949,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10101,Italy,EMEA,Accorti,Paolo,Large
+10280,34,100,2,8014.82,8/17/2004 0:00,Shipped,3,8,2004,Classic Cars,214,S10_1949,Amica Models & Co.,011-4988555,Via Monte Bianco 34,,Torino,,10111,Italy,EMEA,Accorti,Paolo,Large
 10291,37,100,11,7136.19,9/8/2004 0:00,Shipped,3,9,2004,Classic Cars,214,S10_1949,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Large
 10304,47,100,6,10172.7,10/11/2004 0:00,Shipped,4,10,2004,Classic Cars,214,S10_1949,Auto Assoc. & Cie.,30.59.8555,"67, avenue de l'Europe",,Versailles,,78000,France,EMEA,Tonini,Daniel,Large
 10312,48,100,3,11623.7,10/21/2004 0:00,Shipped,4,10,2004,Classic Cars,214,S10_1949,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Large
@@ -727,7 +727,7 @@ ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR
 10383,27,100,11,3843.99,2/22/2005 0:00,Shipped,1,2,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
 10412,56,98.18,8,5498.08,5/3/2005 0:00,Shipped,2,5,2005,Trucks and Buses,122,S18_2319,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Medium
 10425,38,99.41,7,3777.58,5/31/2005 0:00,In Process,2,5,2005,Trucks and Buses,122,S18_2319,La Rochelle Gifts,40.67.8555,"67, rue des Cinquante Otages",,Nantes,,44000,France,EMEA,Labrune,Janine,Medium
-10101,25,100,4,3782,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,127,S18_2325,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium
+10112,25,100,4,3782,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,127,S18_2325,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium
 10110,33,100,4,3859.68,3/18/2003 0:00,Shipped,1,3,2003,Vintage Cars,127,S18_2325,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Medium
 10124,42,100,3,4431.84,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,127,S18_2325,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Medium
 10149,33,100,8,4950.33,9/12/2003 0:00,Shipped,3,9,2003,Vintage Cars,127,S18_2325,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,NA,Taylor,Sue,Medium
@@ -829,7 +829,7 @@ ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR
 10389,39,100,5,6981,3/3/2005 0:00,Shipped,1,3,2005,Motorcycles,60,S18_2625,Scandinavian Gift Ideas,0695-34 6555,?kergatan 24,,Boras,,S-844 67,Sweden,EMEA,Larsson,Maria,Medium
 10402,55,55.72,2,3064.6,4/7/2005 0:00,Shipped,2,4,2005,Motorcycles,60,S18_2625,Auto Canal Petit,(1) 47.55.6555,"25, rue Lauriston",,Paris,,75016,France,EMEA,Perrier,Dominique,Medium
 10417,36,61.18,6,2202.48,5/13/2005 0:00,Disputed,2,5,2005,Motorcycles,60,S18_2625,Euro Shopping Channel,(91) 555 94 44,"C/ Moralzarzal, 86",,Madrid,,28034,Spain,EMEA,Freyre,Diego,Small
-10101,26,100,1,3773.38,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,168,S18_2795,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium
+10113,26,100,1,3773.38,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,168,S18_2795,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Medium
 10110,31,100,1,5074.39,3/18/2003 0:00,Shipped,1,3,2003,Vintage Cars,168,S18_2795,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Medium
 10125,34,100,2,6483.46,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,168,S18_2795,"Australian Collectors, Co.",03 9520 4555,636 St Kilda Road,Level 3,Melbourne,Victoria,3004,Australia,APAC,Ferguson,Peter,Medium
 10139,41,100,8,7956.46,7/16/2003 0:00,Shipped,3,7,2003,Vintage Cars,168,S18_2795,Souveniers And Things Co.,+61 2 9495 8555,"Monitor Money Building, 815 Pacific Hwy",Level 6,Chatswood,NSW,2067,Australia,APAC,Huxley,Adrian,Large
@@ -1538,7 +1538,7 @@ ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR
 10398,43,100,16,5552.16,3/30/2005 0:00,Shipped,1,3,2005,Planes,109,S24_1785,Reims Collectables,26.47.1555,59 rue de l'Abbaye,,Reims,,51100,France,EMEA,Henriot,Paul,Medium
 10401,38,96.29,5,3659.02,4/3/2005 0:00,On Hold,2,4,2005,Planes,109,S24_1785,Tekni Collectables Inc.,2015559350,7476 Moss Rd.,,Newark,NJ,94019,USA,NA,Brown,William,Medium
 10416,47,88.63,6,4165.61,5/10/2005 0:00,Shipped,2,5,2005,Planes,109,S24_1785,L'ordine Souveniers,0522-556555,Strada Provinciale 124,,Reggio Emilia,,42100,Italy,EMEA,Moroni,Maurizio,Medium
-10101,45,31.2,3,1404,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,33,S24_1937,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small
+10114,45,31.2,3,1404,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,33,S24_1937,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small
 10110,20,35.51,3,710.2,3/18/2003 0:00,Shipped,1,3,2003,Vintage Cars,33,S24_1937,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Small
 10124,45,37.84,2,1702.8,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,33,S24_1937,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
 10149,36,33.19,7,1194.84,9/12/2003 0:00,Shipped,3,9,2003,Vintage Cars,33,S24_1937,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,NA,Taylor,Sue,Small
@@ -1615,7 +1615,7 @@ ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR
 10384,28,80.54,3,2255.12,2/23/2005 0:00,Shipped,1,2,2005,Ships,122,S24_2011,Corporate Gift Ideas Co.,6505551386,7734 Strong St.,,San Francisco,CA,,USA,NA,Brown,Julie,Small
 10396,49,100,6,5720.75,3/23/2005 0:00,Shipped,1,3,2005,Ships,122,S24_2011,Mini Gifts Distributors Ltd.,4155551450,5677 Strong St.,,San Rafael,CA,97562,USA,NA,Nelson,Valarie,Medium
 10414,23,100,10,3335.23,5/6/2005 0:00,On Hold,2,5,2005,Ships,122,S24_2011,Gifts4AllAges.com,6175559555,8616 Spinnaker Dr.,,Boston,MA,51003,USA,NA,Yoshido,Juri,Medium
-10101,46,53.76,2,2472.96,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,44,S24_2022,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small
+10115,46,53.76,2,2472.96,1/9/2003 0:00,Shipped,1,1,2003,Vintage Cars,44,S24_2022,"Blauer See Auto, Co.",+49 69 66 90 2555,Lyonerstr. 34,,Frankfurt,,60528,Germany,EMEA,Keitel,Roland,Small
 10110,39,44.35,2,1729.65,3/18/2003 0:00,Shipped,1,3,2003,Vintage Cars,44,S24_2022,"AV Stores, Co.",(171) 555-1555,Fauntleroy Circus,,Manchester,,EC2 5NT,UK,EMEA,Ashworth,Victoria,Small
 10124,22,45.25,1,995.5,5/21/2003 0:00,Shipped,2,5,2003,Vintage Cars,44,S24_2022,Signal Gift Stores,7025551838,8489 Strong St.,,Las Vegas,NV,83030,USA,NA,King,Sue,Small
 10149,49,49.28,6,2414.72,9/12/2003 0:00,Shipped,3,9,2003,Vintage Cars,44,S24_2022,Signal Collectibles Ltd.,4155554312,2793 Furth Circle,,Brisbane,CA,94217,USA,NA,Taylor,Sue,Small
